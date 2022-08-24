@@ -1,0 +1,3 @@
+[submodule "GameTools2022/Assets/Unity"]
+	path = GameTools2022/Assets/Unity
+	url = https://github.com/anthonyromrell/ArtisanDream.Tools
