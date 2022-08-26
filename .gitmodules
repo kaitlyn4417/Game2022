@@ -1,3 +1,6 @@
 [submodule "GameTools2022/Assets/Unity"]
 	path = GameTools2022/Assets/Unity
 	url = https://github.com/anthonyromrell/ArtisanDream.Tools
+[submodule "scripting2022/Assets/MyCode"]
+	path = scripting2022/Assets/MyCode
+	url = https://github.com/kaitlyn4417/scripting2022
